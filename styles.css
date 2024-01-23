@@ -51,6 +51,19 @@ main {
 
 }
 
+.icon-alert {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 320px;
+    height: 12px;
+    gap: 10px;
+
+    position: absolute;
+    top: 500px;
+    left: 150px;
+}
+
 .text-input-button {
     width: 680px;
     height: 48px;
