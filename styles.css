@@ -54,7 +54,7 @@ main {
 .icon-alert {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     width: 320px;
     height: 12px;
     gap: 10px;
